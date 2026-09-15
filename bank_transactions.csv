@@ -1,0 +1,5 @@
+Account_Number,Holder_Name,Type,Amount,Balance_After,Timestamp
+ACC1001,Shrikant,Deposit,1500,6500.0,2026-09-15 19:10:23
+ACC1001,Shrikant,Withdrawal,700,5800.0,2026-09-15 19:10:23
+ACC1001,Shrikant,Withdrawal,300,5500.0,2026-09-15 19:10:23
+ACC1001,Shrikant,Deposit,2000,7500.0,2026-09-15 19:10:23
